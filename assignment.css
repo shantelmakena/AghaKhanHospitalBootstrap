@@ -1,0 +1,14 @@
+body{
+    background-image:url("imagessss/sky1.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: smaller;
+}
+div{
+    width: 40%;
+    margin-top: 80px;
+
+
+}
